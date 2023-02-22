@@ -1,7 +1,7 @@
 # Talking-Electronics
-## the story, https://www.youtube.com/watch?v=u5c8FRoYDQw&ab_channel=StateofElectronics
-
-paraphrased account of video
+## The story
+- https://www.youtube.com/watch?v=u5c8FRoYDQw&ab_channel=StateofElectronics
+- paraphrased account of video
 
 "Mitchell and I founded a magazine called Talking Electronics with the aim of teaching electronics from the basics. To support our projects, we provided kits, which were an essential part of the magazine. Our business was a mail-order operation from my home, and we sold over 300,000 kits. My interest in electronics began when my aunt gave me her son's old radio equipment when I was 12 or 14. I tinkered with a crystal set, and when I added a little amplifier, I heard my own voice for the first time. From there, I produced lamp-loupe fires and began collecting old hearing aids from Myers, which led to my discovery of transistor-based hearing aids. I built my own amplifiers and began learning electronics on my own, even taking a course on electrical engineering when it became available.
 
