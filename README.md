@@ -1,7 +1,7 @@
 ## Talking-Electronics
 - https://www.youtube.com/watch?v=u5c8FRoYDQw&ab_channel=StateofElectronics
 
-concolor Mitchell and I started a
+Colin  Mitchell and I started a
 magazine called talking electronics the
 main point in inlet name starting the
 magazine was to help people actually
