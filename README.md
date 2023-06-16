@@ -1,7 +1,7 @@
 ## Talking-Electronics
 - https://www.youtube.com/watch?v=u5c8FRoYDQw&ab_channel=StateofElectronics
 
-Colin Mitchell and I embarked on an exciting venture, creating a magazine called "Talking Electronics." Our primary goal was to assist people in learning electronics from the fundamentals, and that's why we produced the magazine and provided accompanying kits. The core essence of our publication was to ensure that every project we presented was accompanied by a corresponding kit. Operating mainly from my home, we ran a mail-order business, although customers could also visit to purchase kits. The majority of our sales were conducted through phone orders and mail deliveries, resulting in an impressive sale of over 300,000 kits.
+Colin Mitchell and I embarked on an exciting venture, creating a magazine called "Talking Electronics." Our primary goal was to assist people in learning electronics from the fundamentals, and that's why we produced the magazine and provided accompanying kits. The core essence of our publication was to ensure that every project we presented was accompanied by a corresponding kit. We operated mainly from my home, running a mail-order business, although customers could also visit to purchase kits. The majority of our sales were conducted through phone orders and mail deliveries, resulting in an impressive sale of over 300,000 kits.
 
 My own journey in electronics began when I was around 12 or 14 years old. My aunt's son, who was interested in radio electronics, passed on his collection of old vacuum valves and radio components to me. It was my first hands-on experience with electronic components. While building a crystal set, something remarkable happened. As I tinkered with a crystal earpiece near the front of the circuit, I unexpectedly heard my own voice. It turned out I had unintentionally created a small amplifier. This momentous discovery changed my life, as I realized that I could build something beyond a simple crystal set. With no formal instruction or extensive resources available, I embarked on a self-led learning journey. Armed with basic tools like a multimeter and a simple CRO (Cathode Ray Oscilloscope), I devoted myself to continuous learning. The most valuable lesson was understanding how to troubleshoot and fix electronic devices when they didn't work as intended.
 
@@ -19,7 +19,7 @@ The magazine continued to thrive with its unique offerings. We delved into progr
 
 The 1970s marked a golden era for electronics, as it was a time when cutting-edge components and integrated circuits became readily available. With the rise of computers, individuals could build their own systems, expanding and enhancing them as needed. We witnessed the evolving market demands and catered to the interests of our readers, providing them with opportunities to create and explore. The success of "Talking Electronics" prompted us to expand our offerings, including educational materials, innovative projects, and valuable resources for enthusiasts and beginners alike.
 
-Overall, "Talking Electronics" played a pivotal role in facilitating the learning and exploration of electronics, empowering countless individuals to embrace the world of circuits, chips, and programming.
+Overall, "Talking Electronics" played a pivotal role in facilitating my learning and exploration of electronics, empowering me to embrace the world of circuits, chips, and programming, as well as countless other individuals who were inspired by our magazine.
 
 
 
